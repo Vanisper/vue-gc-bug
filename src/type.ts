@@ -1,4 +1,5 @@
 /// <reference types="wot-design-uni/global" />
+/// <reference types="@uni-helper/uni-types" />
 export {}
 
 declare module "vue" {

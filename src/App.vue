@@ -13,6 +13,8 @@
   </div>
   <HelloWorld msg="Vite + Vue" />
   <wd-button>wot 组件库示例</wd-button>
+  <swiper>uni-types 组件示例</swiper>
+  <view>uni-types jsx组件示例</view>
 </template>
 
 <style scoped>
