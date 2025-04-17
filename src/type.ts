@@ -1,3 +1,4 @@
+/// <reference types="wot-design-uni/global" />
 export {}
 
 declare module "vue" {

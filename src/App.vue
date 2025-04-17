@@ -12,6 +12,7 @@
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <wd-button>wot 组件库示例</wd-button>
 </template>
 
 <style scoped>

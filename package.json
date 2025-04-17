@@ -16,6 +16,7 @@
     "vue-tsc": "^2.2.8"
   },
   "dependencies": {
-    "vue": "3.4.38"
+    "vue": "3.4.38",
+    "wot-design-uni": "^1.8.0"
   }
 }
