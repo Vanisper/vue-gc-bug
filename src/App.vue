@@ -1,5 +1,8 @@
 <script setup lang="ts">
 // import HelloWorld from './components/HelloWorld.vue'
+
+({} as import('vue').GlobalComponents).slider;
+({} as import('vue').GlobalComponents).WdButton;
 </script>
 
 <template>
