@@ -1,5 +1,11 @@
 # [BUG] Vue 3 - TypeScript - GlobalComponents
 
+> [!TIP]
+> 相关讨论见：
+>
+> https://github.com/vuejs/language-tools/issues/5324
+>
+
 详细的版本测试见 <https://github.com/Vanisper/uni-app-gc-bug#readme>
 
 结论：
